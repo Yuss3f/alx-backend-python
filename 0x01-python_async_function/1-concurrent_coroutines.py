@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 1's module: Let's execute multiple coroutines at the same time with async.
+'''Task 1's module: Executing multiple coroutines at the same time with async.
 '''
 import asyncio
 from typing import List
